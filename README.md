@@ -10,7 +10,7 @@ Force data are saved to csv file - two columns for each measurement  (Time [s], 
 Pressure data can be saved either to csv file (one column for each measurement) or to txt file (individual file for each measurement).
 
 ## Usage
-[Examples](Examples) folder contains a few .covi files.
+[examples](examples) folder contains a few .covi files.
 
 These .covi files can be converted by calling [covi_convertor_main.py](covi_convertor_main.py) as 
 * convert force data (2020_03_11 Force measurement 36.covi)
